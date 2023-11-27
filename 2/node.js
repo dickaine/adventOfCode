@@ -104,5 +104,5 @@ const logFileText2 = async file => {
     console.log(total);
 }
 
-logFileText('input.txt')
-logFileText2('input.txt')
+// logFileText('input.txt')
+// logFileText2('input.txt')

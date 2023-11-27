@@ -22,4 +22,4 @@ const logFileText = async file => {
    console.log(sumTop3);
 }
 
-logFileText('input.txt')
+// logFileText('input.txt')
