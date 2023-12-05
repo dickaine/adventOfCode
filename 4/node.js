@@ -51,7 +51,7 @@ const logFileText2 = async file => {
 }
 
 
-
+console.log("hoi")
 
 
 // logFileTextQuestion2("input.txt");
